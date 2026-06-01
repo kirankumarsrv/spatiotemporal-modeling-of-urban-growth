@@ -5,6 +5,10 @@ Urban sprawl is one of the prominent issues that arise in expanding cities and c
 
 **Index Terms:** vegetation indices, urban sprawl, machine learning models, spatiotemporal urban analysis
 
+All visualizations and best explaination: 
+  Conceptual explaination: https://excalidraw.com/#room=76d11ee1a0346e6365e8,R5YDFuX7cJVR6t8HMdVlZg
+  Data analysis: https://cream-bloom-42506340.figma.site/
+  
 This repository contains the code and artifacts used for the urban land-cover workflow described in the paper:
 
 1. Google Earth Engine data extraction for Landsat imagery.
@@ -35,6 +39,11 @@ docs/
     image.png
   paper/
     IEEE_Conference.pdf
+
+Explaination/
+  urbansprawl.png
+  urbansprawl.excalidraw
+
 notebooks/
   cloud_workflows/
     generalized_ca_markov_prediction.ipynb
