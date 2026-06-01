@@ -1,0 +1,18 @@
+# Core geospatial and machine learning stack
+numpy
+scipy
+pandas
+geopandas
+rasterio
+shapely
+scikit-learn
+joblib
+tqdm
+matplotlib
+
+# Notebook / cloud workflow helpers used in the broader project
+earthengine-api
+geemap
+
+# Animation / presentation scripts
+manim
