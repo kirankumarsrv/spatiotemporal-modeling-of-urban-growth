@@ -1,5 +1,4 @@
-# Landsat / Sentinel Urban Classification Project
-
+# Spatiotemporal Modeling of Urban Growth in Bengaluru Using Satellite Data
 ## Abstract
 
 Urban sprawl is one of the prominent issues that arise in expanding cities and causes loss of vegetation, water resources, and agricultural land. Accurate prediction of urban expansion is an important aspect of sustainable urban planning and design of policies. This paper proposes an approach on urban sprawl prediction of Bengaluru by utilizing satellite images of various time intervals based on machine learning techniques. Satellite images of various time intervals are employed for land use and land cover classification, and thus it becomes easy to detect the areas of urban, vegetation, water, and other land elements on the surface of the image. Based on the past land classification phenomenon of the image, various machine learning models are trained to know the characteristics of urban expansion on the image. Based on this, predictions are done on the expansion of Bengaluru city. It is proven that by utilizing machine learning concepts, it becomes easy to know the phenomenon of urban expansion and get insights on expanding Bengaluru.
